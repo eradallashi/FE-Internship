@@ -15,6 +15,7 @@ header {
     display: flex;
     justify-content: center;
     margin-top: 27px;
+    margin-bottom: 0px;
 }
 
 .navbar-wrapper {
