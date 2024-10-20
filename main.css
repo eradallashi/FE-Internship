@@ -15,7 +15,6 @@ header {
     display: flex;
     justify-content: center;
     margin-top: 27px;
-    margin-bottom: 0px;
 }
 
 .navbar-wrapper {
@@ -180,7 +179,7 @@ header {
 
     .navbar-brand-sm {
         display: inline-block;
-        font-size: 24px; /* Change this value to your desired font size */
+        font-size: 24px; 
         flex-grow: 1;
         text-align: center;
     }
@@ -511,11 +510,11 @@ header {
     }
 
     .glide__arrow {
-        display: none; /* Hide arrows on mobile */
+        display: none; 
     }
 
     .glide__track {
-        display: block; /* Stack images vertically */
+        display: block; 
     }
 
     .slide-item {
@@ -1099,7 +1098,7 @@ header {
         height: auto; 
     }
 
-    /* Ensure the text is displayed below the images */
+    
     .elfsight-app-26f7ce63-6cbb-406a-a59e-84d4ea854dc9 > div:not(img) {
         grid-column: span 2;
         text-align: center;
@@ -1118,7 +1117,7 @@ header {
 
 .location-img {
     position: relative;
-    background-image: url('/Img/20.png');
+    background-image: url('20.png');
     display: flex;
     flex-direction: column;
     justify-content: center;
